@@ -14,4 +14,4 @@ For this project, we'll cover the following steps:
     - Bivariate Clustering
     - Multivariate Clustering
     
-The data set is in a csv called [Mall_Customers.csv]() and the project is presented on a Jupyter Notebook called [customer_segmentation_project.ipynb]().
+The data set is in a csv called [Mall_Customers.csv](https://github.com/clayamakita/customer_segmentation_project_kmeans/blob/main/Mall_Customers.csv) and the project is presented on a Jupyter Notebook called [customer_segmentation_project.ipynb](https://github.com/clayamakita/customer_segmentation_project_kmeans/blob/main/customer_segmentation_project.ipynb).
